@@ -6,7 +6,7 @@ What’s in the repo
 - requirements.txt — minimal Python dependencies to run the notebook.
 
 Quick start
-1. Create an environment and install dependencies:
+Create an environment and install dependencies:
    ```bash
    python -m venv .venv
    source .venv/bin/activate    # macOS / Linux
